@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bipin Budhathoki</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Secret Behind World**
-
 - 👨‍💻 All of my projects are available at [https://www.bipinbudhathoki.com.np](https://www.bipinbudhathoki.com.np)
 
 - 📝 I regularly write articles on [https://www.bipinbudhathoki.com.np](https://www.bipinbudhathoki.com.np)
