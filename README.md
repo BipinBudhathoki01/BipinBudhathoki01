@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.bipinbudhathoki.com.np](https://www.bipinbudhathoki.com.np)
 
-- 📝 I regularly write articles on [https://www.bipinbudhathoki.com.np](https://www.bipinbudhathoki.com.np)
+- 📝 I regularly write articles on Technology
 
 - 💬 Ask me about **Ntg**
 
